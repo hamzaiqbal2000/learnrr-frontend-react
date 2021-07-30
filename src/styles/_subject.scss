@@ -1,0 +1,11 @@
+.subject {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+}

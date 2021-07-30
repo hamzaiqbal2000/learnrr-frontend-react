@@ -1,0 +1,35 @@
+.footer {
+  background: #0f1a26;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+  padding: 30px;
+  padding-top: 10px;
+
+  h2 {
+    font-size: 40px;
+    //font-weight: 2000px;
+    //margin: 25px 15px 15px 60px;
+    //float: left;
+  }
+
+  .position-set1 {
+    flex-grow: 9;
+  }
+
+  .size-1 {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    //float: right;
+  }
+}
+
+.links-1 {
+  margin-right: 100px;
+
+  //flex-grow: 1;
+}
